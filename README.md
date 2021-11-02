@@ -1,6 +1,6 @@
-# first_firebase_project
+# Mobile Flutter Firebase Exercise 7
 
-A new Flutter project.
+Firebase project. Able to receive message from Firebase console, an alert dialog will pop up upon receiving the messages.
 
 ## Getting Started
 
